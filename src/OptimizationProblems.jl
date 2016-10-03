@@ -54,5 +54,6 @@ include("woods.jl")
 include("hs6.jl")
 include("hs7.jl")
 include("hs8.jl")
+include("hs28.jl")
 
 end # module
